@@ -97,6 +97,7 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
-VR_Bowling_ProjectFile/Temp/
-VR_Bowling_ProjectFile/Library/
-VR_Bowling_ProjectFile/UserSettings/Layouts/default-6000.dwlt
+[Tt]emp/
+[Ll]ibrary/
+[Uu]ser[Ss]ettings/
+.DS_Store
